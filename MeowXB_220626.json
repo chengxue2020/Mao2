@@ -128,7 +128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/88kanqiu.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/88kanqiu.json"
     },
     {
       "key": "csp_xpath_huya",
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/huya2.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/huya2.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -148,7 +148,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/kuqimv.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/kuqimv.json"
     },
     {
       "key": "csp_AliPanSou",
@@ -1333,7 +1333,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/duboku.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/duboku.json"
     },
     {
       "key": "if101资源",
@@ -1352,7 +1352,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/zxzj2.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/zxzj2.json"
     },
     {
       "key": "csp_xpath_auete",
@@ -1362,7 +1362,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/auete.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/auete.json"
     },
     {
       "key": "csp_xpath_ctv",
@@ -1372,7 +1372,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/chongtmtv.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/chongtmtv.json"
     },
     {
       "key": "csp_xpath_汉城影院",
@@ -1382,7 +1382,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/hancheng.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/hancheng.json"
     },
     {
       "key": "csp_xpath_libv",
@@ -1392,7 +1392,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/libv.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/libv.json"
     },
     {
       "key": "csp_xpath_cokemv",
@@ -1402,7 +1402,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/cokemv.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/cokemv.json"
     },
     {
       "key": "csp_xpath_ddg",
@@ -1412,7 +1412,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/dadagui.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dadagui.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -1422,7 +1422,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/jubaibai.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/jubaibai.json"
     },
     {
       "key": "csp_xpath_Jumi",
@@ -1432,7 +1432,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/Jumi.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/Jumi.json"
     },
     {
       "key": "csp_xpath_唐人街",
@@ -1442,7 +1442,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/Renjie.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/Renjie.json"
     },
     {
       "key": "csp_xpath_lranc",
@@ -1452,7 +1452,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/lranc.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/lranc.json"
     },
     {
       "key": "csp_xpath_yanetflix",
@@ -1462,7 +1462,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/yanet.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/yanet.json"
     },
     {
       "key": "csp_xpath_Ole",
@@ -1472,7 +1472,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/olevod.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/olevod.json"
     },
     {
       "key": "csp_xpath_xxys520",
@@ -1482,7 +1482,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/xxys520.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/xxys520.json"
     },
     {
       "key": "csp_xpath_348z",
@@ -1492,7 +1492,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/348z.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/348z.json"
     },
     {
       "key": "csp_xpath_tvci",
@@ -1502,7 +1502,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/tvci.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/tvci.json"
     },
     {
       "key": "csp_xpath_meiju56",
@@ -1512,7 +1512,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/meiju562.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/meiju562.json"
     },
     {
       "key": "csp_xpath_Gimy",
@@ -1522,7 +1522,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/Gimy.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/Gimy.json"
     },
     {
       "key": "csp_xpath_Gimy2",
@@ -1532,7 +1532,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/Gimy2.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/Gimy2.json"
     },
     {
       "key": "csp_xpath_naifeiorg",
@@ -1542,7 +1542,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/naifeiorg.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/naifeiorg.json"
     },
     {
       "key": "csp_xpath_ttsp",
@@ -1552,7 +1552,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/ttsp.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/ttsp.json"
     },
     {
       "key": "csp_xpath_789kp",
@@ -1562,7 +1562,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/789kp.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/789kp.json"
     },
     {
       "key": "csp_xpath_jpys",
@@ -1572,7 +1572,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/jpys.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/jpys.json"
     },
     {
       "key": "csp_xpath_dmntv",
@@ -1582,7 +1582,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/dmntv.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dmntv.json"
     },
     {
       "key": "csp_xpath_dmw",
@@ -1592,7 +1592,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/dmw.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dmw.json"
     },
     {
       "key": "csp_xpath_ysjdm",
@@ -1602,7 +1602,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/ysjdm.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/ysjdm.json"
     },
     {
       "key": "csp_xpath_6d",
@@ -1612,7 +1612,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/6d.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/6d.json"
     },
     {
       "key": "csp_xpath_dandanzan10",
@@ -1622,7 +1622,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/dandanzan10.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dandanzan10.json"
     },
     {
       "key": "csp_xpath_4kpianku",
@@ -1632,7 +1632,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/4kpianku.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/4kpianku.json"
     },
     {
       "key": "csp_xpath_xiangdao",
@@ -1642,7 +1642,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/xiangdao.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/xiangdao.json"
     },
     {
       "key": "csp_xpath_lkvod",
@@ -1652,7 +1652,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/lkvod.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/lkvod.json"
     },
     {
       "key": "csp_xpath_czspp",
@@ -1662,7 +1662,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/czspp.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/czspp.json"
     },
     {
       "key": "csp_XPath_bidiys",
@@ -1672,7 +1672,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/bidiys2.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/bidiys2.json"
     },
     {
       "key": "csp_xpath_age",
@@ -1682,7 +1682,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/agefans.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/agefans.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -1692,7 +1692,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/dm84.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dm84.json"
     },
     {
       "key": "csp_xpath_yinghua",
@@ -1702,7 +1702,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/yinghua2.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/yinghua2.json"
     },
     {
       "key": "csp_xpath_17skr",
@@ -1712,7 +1712,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/17skr.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/17skr.json"
     },
     {
       "key": "csp_xpath_bttwoo",
@@ -1722,7 +1722,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/bttwoo.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/bttwoo.json"
     },
     {
       "key": "csp_xpath_wanmeikk",
@@ -1732,7 +1732,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/wanmeikk.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/wanmeikk.json"
     },
     {
       "key": "csp_xpath_saohuotv",
@@ -1742,7 +1742,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/saohuotv2.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/saohuotv2.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -1752,7 +1752,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/lezhutv.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/lezhutv.json"
     },
     {
       "key": "csp_xpath_zaixiandianying8",
@@ -1762,7 +1762,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/zaixiandianying8.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/zaixiandianying8.json"
     },
     {
       "key": "csp_xpath_zzzlike",
@@ -1772,7 +1772,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/zzzlike.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/zzzlike.json"
     },
     {
       "key": "csp_xpath_135kan",
@@ -1782,7 +1782,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/135kan.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/135kan.json"
     },
     {
       "key": "csp_xpath_xfeiji",
@@ -1792,7 +1792,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/xfeiji.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/xfeiji.json"
     },
     {
       "key": "csp_xpath_osx3",
@@ -1802,7 +1802,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/osx3.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/osx3.json"
     },
     {
       "key": "csp_xpath_pianku",
@@ -1812,7 +1812,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/pianku.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/pianku.json"
     },
     {
       "key": "csp_xpath_dianyingn",
@@ -1822,7 +1822,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/dianyingn.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dianyingn.json"
     },
     {
       "key": "csp_xpath_newfii",
@@ -1832,7 +1832,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/newfii.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/newfii.json"
     },
     {
       "key": "csp_xpath_dym8",
@@ -1842,7 +1842,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/dym8.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dym8.json"
     },
     {
       "key": "csp_xpath_xuangz",
@@ -1852,7 +1852,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/xuangz.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/xuangz.json"
     },
     {
       "key": "csp_xpath_qdytv",
@@ -1862,7 +1862,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/qdytv.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/qdytv.json"
     },
     {
       "key": "csp_xpath_dingzidy",
@@ -1872,7 +1872,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/dingzidy.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dingzidy.json"
     },
     {
       "key": "csp_xpath_paopaoshipin",
@@ -1882,7 +1882,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/paopaoshipin.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/paopaoshipin.json"
     },
     {
       "key": "csp_xpath_rttks",
@@ -1892,7 +1892,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/rttks.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/rttks.json"
     },
     {
       "key": "csp_xpath_ikan6",
@@ -1902,7 +1902,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/ikan6.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/ikan6.json"
     },
     {
       "key": "csp_xpath_akmeiju",
@@ -1912,7 +1912,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/akmeiju.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/akmeiju.json"
     },
     {
       "key": "csp_xpath_hiyszx",
@@ -1922,7 +1922,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/hiyszx.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/hiyszx.json"
     },
     {
       "key": "csp_xpath_xqmi",
@@ -1932,7 +1932,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/xqmi.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/xqmi.json"
     },
     {
       "key": "csp_xpath_vip1280",
@@ -1942,7 +1942,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/vip1280.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/vip1280.json"
     },
     {
       "key": "csp_xpath_tjyy",
@@ -1952,7 +1952,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/huigutongying.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/huigutongying.json"
     },
     {
       "key": "csp_xpath_juhuang",
@@ -1962,7 +1962,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/juhuang.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/juhuang.json"
     },
     {
       "key": "csp_xpath_doujiaow",
@@ -1972,7 +1972,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/doujiaow.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/doujiaow.json"
     },
     {
       "key": "csp_xpath_dy888",
@@ -1982,7 +1982,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/dy888.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/dy888.json"
     },
     {
       "key": "csp_xpath_yyotv",
@@ -1992,7 +1992,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/yyotv.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/yyotv.json"
     },
     {
       "key": "csp_xpath_jiujiukanpian",
@@ -2002,7 +2002,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/jiujiukanpian.josn"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/jiujiukanpian.josn"
     },
     {
       "key": "csp_xpath_aidi",
@@ -2012,7 +2012,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/aidi.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/aidi.json"
     },
     {
       "key": "csp_xpath_pianba",
@@ -2022,7 +2022,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/pianba.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/pianba.json"
     },
     {
       "key": "csp_xpath_duboku",
@@ -2032,7 +2032,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/duboku2.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/duboku2.json"
     },
     {
       "key": "csp_xpath_94sm",
@@ -2042,7 +2042,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/94sm.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/94sm.json"
     },
     {
       "key": "csp_xpath_zj883",
@@ -2052,7 +2052,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/zj883.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/zj883.json"
     },
     {
       "key": "csp_xpath_cerrd",
@@ -2062,7 +2062,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/cerrd.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/cerrd.json"
     },
     {
       "key": "csp_xpath_so2",
@@ -2072,7 +2072,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://chiguren.github.io/MeowXP/so2.json"
+      "ext": "https://raw.githubusercontent.com/chengxue2020/Mao2/main/MeowXP/so2.json"
     },
     {
       "key": "csp_appysv2_追剧TV",
